@@ -1,0 +1,466 @@
+body{background:url('http://www.ceowd.com/2014_working/application/img/bg_pattern.gif') !important;}
+h2,h3,h4,h5{padding:0px 0 5px 10px; }
+h1,h2,h3,h4,h5{font-family: 'Roboto', sans-serif !important; color:#206181; }
+h5,h4,h3{border-bottom: 2px solid #dadada; color:#1b4e69;}
+ul{list-style-type: none}
+li{list-style-type: none}
+p {line-height:1.6rem !important; color:#515151 !important}
+ul {
+margin:0; 
+
+}
+
+.top-bar,.contain-to-grid{background: none}
+.contain-to-grid{
+position: absolute;
+top: 0;
+z-index: 1;
+}
+
+
+/* shared page styles */
+
+.page_content_container{margin-top:-200px;position: relative;background: #ffffff !important;padding:20px 0;-webkit-border-radius: 25px 25px 0 0;
+border-radius: 25px 25px 0 0;-webkit-box-shadow: 0 0 35px 1px rgba(0,0,0,.6);
+box-shadow: 0 0 35px 1px rgba(0,0,0,.6);}
+
+.page_content_admin{
+	background: #ffffff !important;
+	padding:40px 0 0 0;
+	-webkit-box-shadow: 0 0 35px 1px rgba(0,0,0,.6);
+	box-shadow: 0 0 35px 1px rgba(0,0,0,.6);
+}
+
+
+
+.whiteframing{background:white; -webkit-box-shadow: 0 0 2px 0 rgba(0,0,0,.2); box-shadow: 0 0 2px 0 rgba(0,0,0,.2);}
+.our_vision_overview{font-size: 90% !important; padding:7% 0 0 10%;}
+.customer_review{background:url('http://www.ceowd.com/2014_working/application/img/customer_review_banner.jpg') center center no-repeat !important; height:265px;color:#ffffff;}
+.customer_review h2{margin-top:50px; color: inherit; text-align: center}
+.customer_review p{color:rgba(255,255,255,.8)!important;}
+.top_frame{
+	height: 33px;
+	position: relative;
+	top: -40px;
+	background: url('http://www.ceowd.com/2014_working/application/img/top_frame.png') 0 top no-repeat ;
+	background-size: 100% auto;
+	margin: 0 41px;
+}
+.service_listing li{font-size: 95%; line-height: 30px}
+/* shared page styles */
+
+/* front page styles */
+.frontpage_content_container{margin-top: -170px;position: relative; background: #ffffff !important;}
+/* front page styles */
+
+/* about page styles */
+.about img{margin:0 20px; padding:10px}
+/* about page styles */
+
+/* commerical page styles */
+.messaging{position: relative;
+top: -30px;color:white; display: inline-block;background:url('http://www.ceowd.com/2014_working/application/img/customer_review_banner.jpg')0 0; color:white !important;}
+.messaging h2,.messaging h4{padding:20px 0 0 10px; color:inherit;}
+.messaging p{padding:0 60px 0 10px; margin-bottom:30px;line-height: 30px!important; color:inherit !important;}
+
+/* commercia page styles */
+
+/* residential page styles */
+.residential_services li{line-height: 2rem}
+.residential_services ul{padding-left:30px;margin-bottom: 20px}
+.messaging_residential{position: relative;
+top: -30px;color:white; display: inline-block;background:url('http://www.ceowd.com/2014_working/application/img/customer_review_banner_blue.jpg')0 0; color:white !important;}
+.messaging_residential h2,.messaging_residential h4{padding:20px 0 0 10px; color:inherit;}
+.messaging_residential p{padding:0 40px 0 10px; margin-bottom:30px;line-height: 30px!important; color:inherit !important;}
+/* residential page styles */
+
+
+.frontpage_content_container{
+	margin-top: -170px;
+	position: relative;
+}
+
+.header_contact{
+	background: #237e3f;
+	height: 145px;
+}
+.clearing-assembled .clearing-container .visible-img , .clearing-blackout {background: rgba(0,0,0,.2);}
+.visible-img img{
+	border: 6px solid rgba(255,255,255,.4); 
+	padding:10px;
+	background: #ffffff;
+	-webkit-border-radius: 15px 15px 15px 15px;
+	border-radius: 15px 15px 15px 15px;
+	-webkit-box-shadow: 0 0 12px 0 rgba(0,0,0,1);
+	box-shadow: 0 0 12px 0 rgba(0,0,0,1);
+}
+.commerical_services li{text-align: center;padding:0px 10px;}
+.services_header_container{background: #143c52; height: 40px; font-weight: normal}
+.services_header_container h4{color: #ffffff; }
+.header_contact p {color: #ffffff;}
+
+.header_contact p .description{color: #ffffff; font-size: 20%}
+
+.testBorder{border:1px solid red;}
+header{background: #1b4e69;}
+
+
+p span{font-weight: normal;text-transform:uppercase; }
+
+
+footer{
+	background: #03485f;
+	color: #e5e5e6;
+	padding:10px 20px;
+	overflow: hidden
+}
+.tabs-content {
+margin-bottom: 0;
+}
+.fullrow {
+width: 100%;
+margin-left: auto;
+margin-right: auto;
+margin-top: 0;
+margin-bottom: 0;
+}
+.recent_gallery{margin-bottom:30px;}
+
+.recent_gallery li img {
+line-height: 0;
+display: inline-block;
+border: solid 4px #fff;
+box-shadow: 0 0 0 1px rgba(0, 0, 0, 0.2);
+padding: 3px !important;
+margin: auto auto 0;
+text-align: center;
+}
+.decorWrapper{
+	-webkit-box-shadow: 0 0 5px 1px rgba(0,0,0,.3);
+	box-shadow: 0 0 5px 1px rgba(0,0,0,.3);margin: 30px 15px;
+}
+
+
+
+
+.commerical_gallery .our_vision a:hover{color: #299829!important}
+.commerical_gallery div{padding:2px 5px}
+.commerical_gallery h5{
+	color:white; 
+	font-size: 90% !important; 
+	width: 110%; 
+	font-weight: bold; 
+	padding: 10px;
+	background: #07526a;
+	text-align:center;
+	margin: 0 -15px;
+	border-right:1px solid white; 
+
+}
+.commerical_gallery p{
+	font-size: 80%;
+	padding: 10px;
+	line-height: 1rem !important;
+	padding-left: 0;
+}
+.commerical_gallery strong{color:#000000;}
+.decorWrapper_no_margin{
+	-webkit-box-shadow: 0 0 5px 1px rgba(0,0,0,.3);
+	box-shadow: 0 0 5px 1px rgba(0,0,0,.3);
+}
+
+.moreServices{list-style-type: none; margin: 0}
+.moreServices li {display: inline-block;padding: 10px;}
+.moreServices li.description{background: #143c52; width:58%;color:#ffffff;font-size:80%;}
+.moreServices li.contact_us{background: #277dad;color:#ffffff; font-size:80%;margin-left: -3px;}
+.moreServices li.learn_more{background: #237e3f;color:#ffffff;font-size:80%;margin-left: -3px;}
+
+.send_to_top{position: absolute; z-index: 9999;}
+.contactOptions a{color:#008cba !important;}
+footer ul{list-style-type: none}
+footer h4{color:#4d87b3!important;}
+.contactOptions ul{list-style-type: none;}
+.contactOptions li {padding-bottom: 15px}
+.iconemail{background: url('http://www.ceowd.com/2014_working/application/img/icons/mail.png') no-repeat 0px 0; width: 25px; height: 25px; display:block;float:left;}
+.iconephone{background: url('http://www.ceowd.com/2014_working/application/img/icons/phone.png') no-repeat 0px 0; width: 25px; height: 25px; display:block;float:left;}
+.top-bar.expanded .title-area {
+background:none;
+}
+
+.contavtustoday{color:#03485f; font-weight: bold;}
+.drkbluebg h3{color:#e5e5e6 !important;}
+.drkbluebg p {color:#e5e5e6 !important; font-weight: normal; font-size:90% !important; line-height: 1.5rem}
+.drkbluebg{background: #03485f; }
+.stayconnected{float:left}
+.contactInfo{margin-left:0;}
+.contactInfo li {padding-bottom:.50rem;font-size: 90%}
+.contain-to-grid {left: 1px;}
+.wrapperdropshadow{
+	width: 100%;
+	margin-left: auto;
+	margin-right: auto;
+	margin-top: 0;
+	margin-bottom: 0;
+	max-width: 62.5rem;
+	-webkit-box-shadow: 0 0 10px 0 rgba(0,0,0,1);
+	box-shadow: 0 0 10px 0 rgba(0,0,0,1);
+}
+.aside{color:#9f9f9f;}
+.about_us li{color:#333333; padding-bottom:15px;}
+.about_us li:first-child{color:#333333; padding:10px 0px;}
+
+
+.services{margin-top:-50px;}
+.services li{line-height: 2rem}
+
+
+.recent_project_container{color:#1b4e69;}
+.recent_project_container h2{padding-top:30px;margin-bottom:  color: inherit; text-align: center}
+.top-bar-section-overide ul li a{font-family: 'Roboto', sans-serif !important;border-right:1px solid #222222;}
+.top-bar-section-overide li:last-child {padding-right:0;border:0}
+
+
+.orbit-bullets li {cursor: pointer}
+.rotater{
+	height: 310px; 
+	overflow: hidden;
+	position: relative;
+	top: 0;
+	z-index: -1;
+}
+
+.rotater_home{
+	height: 310px; 
+}
+
+.our_services{
+	background:white;
+	padding:15px;
+
+	-webkit-box-shadow: 0 0 2px 0 rgba(0,0,0,.4);
+	box-shadow: 0 0 2px 0 rgba(0,0,0,.4);
+	float: right;
+	width: 46%;
+	height: 40%;
+	margin:10px 0px 0 20px;
+
+}
+.ServicesBlock p {
+	
+	margin-top:10px;
+	padding-left:10px;
+}
+.commerical_gallery li{margin: 10px 0; overflow: hidden; height: 600px; padding-bottom: 20px}
+
+.customTopMargin40 {padding-top: 30px; display: inline-block;}
+
+.spanSectionHeading{font-size:16px; font-weight: 400; color:#008cba !important; font-size: 110%;}
+
+
+
+
+.wrapperAlpha h2 {padding: 20px 0 ;display:block; margin: auto auto 0}
+.wrapperAlpha h4 {padding-left: 0}
+.wrapperAlpha p {line-height: 1.8rem;}
+.wrapperAlpha{
+	border:1px solid #e5e5e6;
+	padding:10px 20px;
+	margin: -51px 20px 60px 20px;
+	
+	position: relative;
+	background: rgba(255,255,255,1);
+
+	-webkit-border-radius: 5px;
+	border-radius: 5px;
+	-webkit-box-shadow: 0 0 12px 0 rgba(0,0,0,.1);
+	box-shadow: 0 0 12px 0 rgba(0,0,0,.1);
+}
+
+.wrapperAlpha_about{
+	border:1px solid #e5e5e6;
+	padding:10px 10px;
+	margin: 47px 20px 60px 20px;
+
+	float: left;
+	background: rgba(255,255,255,.9);
+	-webkit-border-radius: 5px;
+	border-radius: 5px;
+	-webkit-box-shadow: 0 0 12px 0 rgba(0,0,0,.1);
+	box-shadow: 0 0 12px 0 rgba(0,0,0,.1);
+}
+
+footer h4{color:#e5e5e6 !important;}
+.customBorder{border-color:#008cba !important }
+.customPadding_10{padding:0 0 10px 20px;}
+.wrapperAlpha_contact_override{
+	width:96%;margin-top: -85px;
+	
+
+	-webkit-box-shadow: 0 0 10px 0 rgba(0,0,0,.3);
+	box-shadow: 0 0 10px 0 rgba(0,0,0,.5);
+	margin-bottom:60px 
+}
+.tabs dd {
+    width: 50%;
+    color: white;
+  }
+.tabs {
+    margin-top:-55px;
+  }
+
+.tabs dd.first a {
+-webkit-border-radius: 10px 0px 0 0;
+border-radius: 10px 0px 0 0;
+text-align: center;
+color: white;
+font-size: 100%;
+font-weight: bold;
+
+}
+
+.tabs dd.second a {
+-webkit-border-radius: 0px 10px 0 0;
+border-radius: 0px 10px 0 0;
+text-align: center;
+color: white;
+font-size: 100%;
+font-weight: bold;
+
+}
+
+.tabs a{
+background: #2c4e58 !important; /* Old browsers */
+background: -moz-linear-gradient(top,  #2c4e58 0%, #1e5d7e 3%, #215e7b 6%, #1f5f82 12%, #235c79 15%, #1e5d7c 18%, #205976 39%, #1d5673 52%, #17445b 91%, #153e52 100%)!important; /* FF3.6+ */
+background: -webkit-gradient(linear, left top, left bottom, color-stop(0%,#2c4e58), color-stop(3%,#1e5d7e), color-stop(6%,#215e7b), color-stop(12%,#1f5f82), color-stop(15%,#235c79), color-stop(18%,#1e5d7c), color-stop(39%,#205976), color-stop(52%,#1d5673), color-stop(91%,#17445b), color-stop(100%,#153e52))!important; /* Chrome,Safari4+ */
+background: -webkit-linear-gradient(top,  #2c4e58 0%,#1e5d7e 3%,#215e7b 6%,#1f5f82 12%,#235c79 15%,#1e5d7c 18%,#205976 39%,#1d5673 52%,#17445b 91%,#153e52 100%)!important; /* Chrome10+,Safari5.1+ */
+background: -o-linear-gradient(top,  #2c4e58 0%,#1e5d7e 3%,#215e7b 6%,#1f5f82 12%,#235c79 15%,#1e5d7c 18%,#205976 39%,#1d5673 52%,#17445b 91%,#153e52 100%)!important; /* Opera 11.10+ */
+background: -ms-linear-gradient(top,  #2c4e58 0%,#1e5d7e 3%,#215e7b 6%,#1f5f82 12%,#235c79 15%,#1e5d7c 18%,#205976 39%,#1d5673 52%,#17445b 91%,#153e52 100%)!important; /* IE10+ */
+background: linear-gradient(to bottom,  #2c4e58 0%,#1e5d7e 3%,#215e7b 6%,#1f5f82 12%,#235c79 15%,#1e5d7c 18%,#205976 39%,#1d5673 52%,#17445b 91%,#153e52 100%!important); /* W3C */
+filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#2c4e58', endColorstr='#153e52',GradientType=0 )!important; /* IE6-9 */
+
+}
+.tabs dd.active a {
+	background: #ffffff !important;
+	-webkit-box-shadow: 0 0 10px 1px rgba(0,0,0,.3);
+	box-shadow: 0 0 5px 1px rgba(0,0,0,.3);
+	color: black;
+	font-weight: bold;
+	font-size: 100%;
+
+}
+
+.top-bar-section-overide ul{
+	
+	margin-right:1px;
+	-webkit-box-shadow: 0 0 2px 0 rgba(0,0,0,.1);
+	box-shadow: 0 0 2px 0 rgba(0,0,0,.1);}
+
+.top-bar-section-overide ul li a{
+	padding:1rem 2rem !important;
+	color:white !important;
+	font-size: 13px;
+	
+}
+.top-bar-section-overide ul{background: none;margin-top: 230px;}
+.top-bar-section-overide ul li{padding-right:1px; line-height: 1.6rem}
+.top-bar-section-overide ul li a{background: black !important;}
+.top-bar-section-overide ul li a:hover{
+	background: #3f783a!important;; /* Old browsers */
+	background: -moz-linear-gradient(top,  #3f783a 0%, #28a026 3%, #26a02a 6%, #2b9d2b 9%, #28a024 12%, #2b9b2d 15%, #26a028 18%, #2b9b29 21%, #299729 45%, #269424 55%, #278f27 61%, #1f7a1e 100%)!important;; /* FF3.6+ */
+	background: -webkit-gradient(linear, left top, left bottom, color-stop(0%,#3f783a), color-stop(3%,#28a026), color-stop(6%,#26a02a), color-stop(9%,#2b9d2b), color-stop(12%,#28a024), color-stop(15%,#2b9b2d), color-stop(18%,#26a028), color-stop(21%,#2b9b29), color-stop(45%,#299729), color-stop(55%,#269424), color-stop(61%,#278f27), color-stop(100%,#1f7a1e))!important;; /* Chrome,Safari4+ */
+	background: -webkit-linear-gradient(top,  #3f783a 0%,#28a026 3%,#26a02a 6%,#2b9d2b 9%,#28a024 12%,#2b9b2d 15%,#26a028 18%,#2b9b29 21%,#299729 45%,#269424 55%,#278f27 61%,#1f7a1e 100%)!important;; /* Chrome10+,Safari5.1+ */
+	background: -o-linear-gradient(top,  #3f783a 0%,#28a026 3%,#26a02a 6%,#2b9d2b 9%,#28a024 12%,#2b9b2d 15%,#26a028 18%,#2b9b29 21%,#299729 45%,#269424 55%,#278f27 61%,#1f7a1e 100%)!important;; /* Opera 11.10+ */
+	background: -ms-linear-gradient(top,  #3f783a 0%,#28a026 3%,#26a02a 6%,#2b9d2b 9%,#28a024 12%,#2b9b2d 15%,#26a028 18%,#2b9b29 21%,#299729 45%,#269424 55%,#278f27 61%,#1f7a1e 100%)!important;; /* IE10+ */
+	background: linear-gradient(to bottom,  #3f783a 0%,#28a026 3%,#26a02a 6%,#2b9d2b 9%,#28a024 12%,#2b9b2d 15%,#26a028 18%,#2b9b29 21%,#299729 45%,#269424 55%,#278f27 61%,#1f7a1e 100%)!important;; /* W3C */
+	filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#3f783a', endColorstr='#1f7a1e',GradientType=0 )!important;; /* IE6-9 */
+
+	-webkit-transition: background 200ms ease;
+	-moz-transition: background 200ms ease;
+	-ms-transition: background 200ms ease;
+	-o-transition: background 200ms ease;
+	transition: background 200ms ease;
+
+}
+.top-bar-section-overide ul li.active a{
+background: #2c4e58 !important; /* Old browsers */
+background: -moz-linear-gradient(top,  #2c4e58 0%, #1e5d7e 3%, #215e7b 6%, #1f5f82 12%, #235c79 15%, #1e5d7c 18%, #205976 39%, #1d5673 52%, #17445b 91%, #153e52 100%)!important; /* FF3.6+ */
+background: -webkit-gradient(linear, left top, left bottom, color-stop(0%,#2c4e58), color-stop(3%,#1e5d7e), color-stop(6%,#215e7b), color-stop(12%,#1f5f82), color-stop(15%,#235c79), color-stop(18%,#1e5d7c), color-stop(39%,#205976), color-stop(52%,#1d5673), color-stop(91%,#17445b), color-stop(100%,#153e52))!important; /* Chrome,Safari4+ */
+background: -webkit-linear-gradient(top,  #2c4e58 0%,#1e5d7e 3%,#215e7b 6%,#1f5f82 12%,#235c79 15%,#1e5d7c 18%,#205976 39%,#1d5673 52%,#17445b 91%,#153e52 100%)!important; /* Chrome10+,Safari5.1+ */
+background: -o-linear-gradient(top,  #2c4e58 0%,#1e5d7e 3%,#215e7b 6%,#1f5f82 12%,#235c79 15%,#1e5d7c 18%,#205976 39%,#1d5673 52%,#17445b 91%,#153e52 100%)!important; /* Opera 11.10+ */
+background: -ms-linear-gradient(top,  #2c4e58 0%,#1e5d7e 3%,#215e7b 6%,#1f5f82 12%,#235c79 15%,#1e5d7c 18%,#205976 39%,#1d5673 52%,#17445b 91%,#153e52 100%)!important; /* IE10+ */
+background: linear-gradient(to bottom,  #2c4e58 0%,#1e5d7e 3%,#215e7b 6%,#1f5f82 12%,#235c79 15%,#1e5d7c 18%,#205976 39%,#1d5673 52%,#17445b 91%,#153e52 100%!important); /* W3C */
+filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#2c4e58', endColorstr='#153e52',GradientType=0 )!important; /* IE6-9 */
+
+
+
+
+}
+.top-bar-section-overide ul{
+	-webkit-box-shadow: 0 0 5px 0 rgba(0,0,0,.3);
+	box-shadow: 0 0 5px 0 rgba(0,0,0,.3);}
+}
+
+@media all and (min-width: 699px) {
+  .rotater {height:20px;background: pink}
+}
+
+@media screen and (max-width: 699px) and (min-width: 400px) {
+  .rotater {height:auto;}
+  .wrapperAlpha_contact_override{width:auto;}
+  .ServicesBlock p{text-align: left !important}
+}
+
+
+.bg_override{background: url("http://www.ceowd.com/2014_working/application/img/green_background.jpg") 0 0 no-repeat !important}
+
+/* clear fix */
+.clearfix:after {
+    content: ".";
+    display: block;
+    clear: both;
+    visibility: hidden;
+    line-height: 0;
+    height: 0;
+}
+ 
+.clearfix {
+    display: inline-block;
+}
+ 
+html[xmlns] .clearfix {
+    display: block;
+}
+ 
+* html .clearfix {
+    height: 1%;
+}
+
+
+@media (max-width: 1400px) {
+ .frontpage_content_container{margin-top:-100px !important;}
+ .page_content_container{margin-top:-200px}
+ .top-bar-section-overide ul {margin-top: 170px;}
+}
+
+@media (max-width: 1100px) {
+ .frontpage_content_container{margin-top:-20px!important;}
+  .page_content_container{margin-top:-60px}
+ .top-bar-section-overide ul {margin-top: -120;}
+}
+
+@media (max-width: 800px) {
+ .frontpage_content_container{margin-top:40px!important;}
+ .page_content_container{margin-top:0px}
+ .top_frame{top:-30px;}
+}
+
+@media (max-width: 650px) {
+ .frontpage_content_container{margin-top:50px!important;}
+ .top-bar-section-overide ul {margin-top: 118px;}
+ .top-bar .toggle-topbar.menu-icon a {background: black;margin-top:-10px;margin-right:-10px;}
+}
+
+ 
+
+
+
